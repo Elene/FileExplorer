@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">File Explorer</string>
+    <string name="button_save">Save</string>
+    <string name="button_close">Close</string>
+    <string name="filename">Please enter name for file</string>
+    <string name="label_confirm">Confirm</string>
+    <string name="label_close">Close</string>
+    <string name="message_save">Want to save changes?</string>
+    <string name="icon_txt">@drawable/txt</string>
+    <string name="label_items">items</string>
+    <string name="label_item">item</string>
+    <string name="label_bytes">bytes</string>
+    <string name="label_byte">byte</string>
+</resources>
